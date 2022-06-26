@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cat Breeds Quiz Game</string>
+    <string name="welcome_app">Welcome to Cat Breeds Quiz Game</string>
+
+    <!--Button-->
+    <string name="btn_start">Start</string>
+    <string name="btn_again">Again</string>
+    <string name="btn_quit">Quit</string>
+    <!--text-->
+    <string name="text_correct">Correct:</string>
+    <string name="text_empty">Empty:</string>
+    <string name="text_wrong">Wrong:</string>
+    <string name="text_q">Question:</string>
+    <string name="text_total_correct">Total Correct Answer:</string>
+    <string name="text_total_wrong">Total Wrong Answer:</string>
+    <string name="text_total_empty">Total Empty Answer:</string>
+    <string name="text_success_rate">Success Rate:</string>
+</resources>
